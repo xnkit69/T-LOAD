@@ -55,10 +55,6 @@ ls
 
 cd T-LOAD
 
-ls
-
-cp scifi.mp3 /sdcard
-
 clear
 bash packages.sh
 clear
